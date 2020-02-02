@@ -1,3 +1,16 @@
+Simple react app to keep track of the series you are watching.
+
+Using axios.
+Using react hooks.
+
+The "proxy" is recomended only in development enviroment, not in producion.
+Work in progress.
+
+To run the server:
+node .\node_modules\minhas-series-server\index.js
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
