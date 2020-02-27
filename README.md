@@ -6,6 +6,9 @@ Using react hooks.
 The "proxy" is recomended only in development enviroment, not in producion.
 Work in progress.
 
+To run the project:
+yarn start-react
+
 To run the server:
 node .\node_modules\minhas-series-server\index.js
 
